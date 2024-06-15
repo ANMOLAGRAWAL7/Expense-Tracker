@@ -1,4 +1,10 @@
-# Skills and technologies used:Data modeling, user authentication (JWT),node-js,express-js,javascript,API.
+# Skills and Technologies Used:
+1.Data modeling 
+2.user authentication (JWT) 
+3.node-js
+4.express-js
+5.javascript
+6.API.
 ![Screenshot 2024-06-15 203248](https://github.com/ANMOLAGRAWAL7/Expense-Tracker/assets/138976989/09663827-90e6-48ce-8d9e-6a8b2a8ce0f1)
 # You can do the following things:
 1. Sign up as a new user.
