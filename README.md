@@ -23,3 +23,9 @@ Clothing
 Health
 Others.
 # Database Used: Postgres-SQL
+![Screenshot 2024-06-16 114901](https://github.com/ANMOLAGRAWAL7/Expense-Tracker/assets/138976989/f1c0756a-59fe-4d93-ab98-e89e7574c312)
+# STEPS TO RUN THE PROJECT
+1.Cd over to your folder
+2.run npm i
+3.run node index.js
+4.Headover to your browser at http://localhost:3000
